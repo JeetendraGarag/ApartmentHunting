@@ -1,0 +1,6 @@
+SOLUTION  APPROACH :: There are multiple possibility of answers to this questions  
+                      Here we are basically establishing a trade-off between time and space complexity
+                      Initialise all blocks to "data"  and we declare Index for outputing the minimun farthest distance
+                      now  for every blocks it go through the every requirements and find the closest block that required
+                      and change the Index  value  for that minimun of current value .AT the end it returns the index value with  the minimum farthest distance value
+                    
